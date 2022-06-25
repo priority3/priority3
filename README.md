@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3)](https://github.com/anuraghazra/github-readme-stats)
+https://raw.githubusercontent.com/buqiyuan/buqiyuan/main/coding.gif
