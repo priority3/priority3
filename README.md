@@ -6,8 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🐱‍👓 I am a junior studying in [XHU](http://english.xhu.edu.cn/)
+
 - 🔭 I’m currently working on TS/JS/Python
+
 - 📫 How to reach me: prioritycc@outlook.com
+
 - 🤔 coding... 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
