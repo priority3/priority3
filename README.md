@@ -1,6 +1,6 @@
 ### Hi there 👋  -- priority
 
-<img align="right" alt="GIF" width="100px" src="./coding.gif" />
+<img align="right" alt="GIF" width="100px" height="100px" src="./coding.gif" />
 <!--
 **priority3/priority3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
