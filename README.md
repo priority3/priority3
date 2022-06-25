@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priority3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priority3&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![priority's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priority3&hide=html)](https://github.com/anuraghazra/github-readme-stats)
