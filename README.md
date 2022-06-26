@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🐱‍👓 I am a junior studying in [XHU](http://english.xhu.edu.cn/)
-- 🔭 I’m currently working on TS/JS/Python
+- 🔭 I’m currently working on Web development
 - 📫 How to reach me: prioritycc@outlook.com
-- 🤔 coding... 
+- 🤔 coding... TS/JS/Python
 
 
 <!-- - 🌱 I’m currently learning ...
