@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🐱‍👓 I am a junior studying in [XHU](http://english.xhu.edu.cn/)
 - 🔭 I’m currently working on TS/JS/Python
 - 📬 prioritycc@outlook.com
-- 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472)
+- 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472/posts)
 - 🤔 coding... 
 
 
