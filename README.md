@@ -1,5 +1,7 @@
 ### Hi there 👋  -- priority
 
+<img src="./coding.gif" width="240"  align="right">
+
 
   - 🐱‍👓 I am a `student`, like `open source`
   - 🔭 I’m currently working on TS/JS/Python
@@ -7,9 +9,7 @@
   - 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472)
   - 🤔 coding... 
 
+![Metrics](https://metrics.lecoq.io/priority3?template=classic&base.repositories=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.display=large)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3&show_icons=true&theme=flag-india)
 
-[![priority's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Metrics](https://metrics.lecoq.io/priority3?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
