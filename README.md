@@ -1,8 +1,6 @@
 ### Hi there 👋  -- priority
 
 
-<img align="right"  alt="GIF" src="./coding.gif" />
-
   - 🐱‍👓 I am a `student`, like `open source`
   - 🔭 I’m currently working on TS/JS/Python
   - 📬 prioritycc@outlook.com
