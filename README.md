@@ -1,28 +1,17 @@
 ### Hi there 👋  -- priority
 
-<img align="right" alt="GIF" src="./coding.gif" />
-<!--
-**priority3/priority3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
-- 🐱‍👓 I am a junior studying in [XHU](http://english.xhu.edu.cn/)
-- 🔭 I’m currently working on TS/JS/Python
-- 📬 prioritycc@outlook.com
-- 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472)
-- 🤔 coding... 
+<img align="right"  alt="GIF" src="./coding.gif" />
+
+  - 🐱‍👓 I am a `student`, like `open source`
+  - 🔭 I’m currently working on TS/JS/Python
+  - 📬 prioritycc@outlook.com
+  - 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472)
+  - 🤔 coding... 
 
 
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priority3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![priority's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priority3&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Metrics](https://metrics.lecoq.io/priority3?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
