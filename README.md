@@ -4,10 +4,8 @@
 
 
   - 🐱‍👓 I am a `student`, like `open source`
-  - 🔭 I’m currently working on TS/JS/Python
   - 📬 prioritycc@outlook.com
-  - 🥽 掘金 [jueJin](https://juejin.cn/user/3466114142048472)
-  - 📚 [Blog](https://priority-me.netlify.app/)
+  - 📚 visit my [website](https://priority-me.netlify.app/) / [blog](https://priority-me.netlify.app/posts) /  [掘金](https://juejin.cn/user/3466114142048472)
   - 🤔 coding... 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3&show_icons=true&theme=flag-india)
