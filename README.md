@@ -11,8 +11,6 @@
   
   coding... 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priority3&show_icons=true&theme=flag-india)
-
 
 ## Views 
 ![](https://komarev.com/ghpvc/?username=priority3)
