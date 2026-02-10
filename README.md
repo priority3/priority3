@@ -15,4 +15,4 @@
 
 
 ## Views 
-![](https://profile-counter.glitch.me/priority3/count.svg)
+![](https://komarev.com/ghpvc/?username=priority3)
