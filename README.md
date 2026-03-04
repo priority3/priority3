@@ -67,10 +67,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**TrendRadar**](https://github.com/priority3/TrendRadar) | 🎯 多平台热点聚合 + AI 分析工具，支持 35 个平台监控 |
-| [**qaqCheck**](https://github.com/priority3/qaqCheck) | GGBOOM 公益站自动签到脚本 |
-| [**mtc**](https://github.com/priority3/mtc) | Miniature TypeScript compiler |
-| [**exameTest**](https://github.com/priority3/exameTest) | AI 考试平台 (MVP) |
+| [**runPaceFlow**](https://github.com/priority3/runPaceFlow) | 🏃‍♂️ Running Page of Modern UI Design |
 
 ---
 
